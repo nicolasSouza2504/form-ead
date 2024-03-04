@@ -1,0 +1,30 @@
+.form-group {
+    margin-top: 20px;
+    display: flex;
+    margin-top: 20px;
+}
+
+h1, h2, p {
+    color: #0a58ca;
+}
+
+form {
+    border: 2px solid #7f9fcc;
+    border-radius: 10px;
+    width: 750px;
+}
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-content {
+    margin-left: 15px;
+}
+button {
+    margin-bottom: 15px;
+    border-radius: 5px;
+    color: white;
+    background-color: #0a58ca;
+
+}
